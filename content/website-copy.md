@@ -6,7 +6,7 @@ IIT Bhilai · Electrical Engineering · May 2022
 
 # Performance Analysis of RIS Aided Wireless Systems and Joint Transmission in IEEE 802.11be
 
-Ashutosh Soni
+[Ashutosh Soni](https://scholar.google.com/citations?user=sOSut_YAAAAJ&hl=en)
 
 Bachelor of Technology (Honours) thesis
 

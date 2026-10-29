@@ -8,3 +8,9 @@ The advisors' website names link to Google Scholar. Verified through IIT Bhilai'
   Target: https://scholar.google.com/citations?user=1oG_w-EAAAAJ&hl=en
 
 Direct automated Scholar fetching was restricted; the linked IDs were corroborated by these institutional profiles. Names retain the thesis's attribution as supervisors.
+
+## Thesis author
+
+Ashutosh Soni: https://scholar.google.com/citations?user=sOSut_YAAAAJ&hl=en
+
+Source: the author’s existing personal website configuration, `_data/socials.yml`, which lists `scholar_userid: sOSut_YAAAAJ`.
