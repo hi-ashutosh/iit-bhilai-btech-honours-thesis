@@ -8,6 +8,8 @@ Indian Institute of Technology Bhilai · May 2022
 
 **Supervisors:** Dr. Sreejith T. V. and Dr. Arzad Alam Kherani
 
+[**Explore the visual thesis website**](https://hi-ashutosh.github.io/iit-bhilai-btech-honours-thesis/)
+
 [**Read the complete thesis (PDF)**](ashutosh-soni-btech-honours-thesis.pdf)
 
 ## About this repository

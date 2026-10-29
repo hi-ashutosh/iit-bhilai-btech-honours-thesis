@@ -25,6 +25,9 @@ python3 -m http.server 8765 --bind 127.0.0.1 --directory docs
 
 Open http://127.0.0.1:8765/ . No package installation or build step is required. Use content/website-copy.md for portable editorial text, and update docs/index.html alongside it. Figure sources are recorded in content/figure-manifest.md.
 
-## Later publication
+## Publication
 
-This version is local only. After local review, GitHub Pages can publish main /docs. PDF links point to the existing PDF on GitHub so no second tracked copy is needed.
+GitHub Pages publishes the `main` branch’s `/docs` folder at:
+https://hi-ashutosh.github.io/iit-bhilai-btech-honours-thesis/
+
+PDF links point to the existing PDF on GitHub so no second tracked copy is needed.
