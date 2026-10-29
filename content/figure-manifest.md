@@ -23,3 +23,17 @@ All source page numbers below are printed thesis pages; PDF page = printed page 
 | favicon.svg | New original drawing | Decorative mark, no scientific claim |
 
 Alternative text and visible source captions are maintained in docs/index.html. Website template adaptations and drawings are provided under CC BY-SA 4.0; the original thesis and its reproduced figures retain their respective rights and source attributions.
+
+## Visual-first refresh
+
+| Asset | Source / treatment | Context |
+| --- | --- | --- |
+| ris-strong-intuition.svg / ris-weak-intuition.svg | New qualitative illustrations based on Chapter 2 comparisons | Direct and reflected paths. Line widths are schematic; not quantitative power encodings. |
+| corridor-intuition.svg / corridor-intuition-mobile.svg | New qualitative illustration based on Figs. 4.4 and 4.6 | Location relative to APs; colored central region is not a computed JT boundary. |
+| service-timeline.svg / service-timeline-mobile.svg | New illustration of Chapter 6 combined JT+SAPI schedule | Both APs serve user 1, then user 2, then their respective users. Durations are schematic. |
+| overview-mobile.svg | Portrait adaptation of overview.svg | Same two separate research directions, with readable phone labels. |
+| ris-model-mobile.svg | Portrait adaptation of ris-model.svg | Same capture-sector concept; no new experimental geometry. |
+| mode-sapt-mobile.svg / mode-sapi-mobile.svg / mode-jt-mobile.svg | Portrait adaptations of existing mode diagrams | Same channel allocation and service relationships. |
+| gated-service-mobile.svg | Portrait adaptation of gated-service.svg | Same snapshot-based rule; schematic block counts. |
+
+The main text now teaches the physical idea before revealing the plots. Original thesis plots and their parameter captions are unchanged and available in details disclosures.
